@@ -1,0 +1,27 @@
+.Header
+{
+   
+    font-size: 100px;
+    background-color: rgba(255, 255, 255,0.5);
+    font-family: "Lobster";
+    color:rgba(15, 15, 15);
+    padding-left: 100px;
+    /* opacity: 50%; */
+    text-align: center;
+}
+.add
+{
+    position:relative;
+    left:380px;
+    top:-60px;
+    background-color: rgb(97, 96, 96);
+    border-radius:10px ;
+    padding:10px ;
+    background-image:url("add.png");
+    border-style:none ;
+}
+body
+{
+    background-image: url('Lib.jpg');
+    background-size: cover;
+}
