@@ -17,11 +17,38 @@
     background-color: rgb(97, 96, 96);
     border-radius:10px ;
     padding:10px ;
-    background-image:url("add.png");
     border-style:none ;
 }
 body
 {
     background-image: url('Lib.jpg');
     background-size: cover;
+}
+.place_holder
+{
+    width: 180px;
+    height: 200px;
+    background-color: rgba(255, 255, 255,0.5);
+    margin:20px;
+    padding:5px;
+    text-align: center;
+   
+}
+.text
+{
+    position: relative;
+    bottom:-45px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+.del
+{
+    position: relative;
+    top:-110px;
+    right:-65px;
+    background-color: rgb(97, 96, 96);
+    border-radius:5px ;
+    padding:10px ;
+    border-style:none ;
+   
 }

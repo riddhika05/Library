@@ -2,8 +2,8 @@ const add=document.querySelector(".add");
 const new_book=document.querySelector(".books");
 const myLibrary = [];
 
-function Book(book_name,title,author,pages) {
-   this.book_name=book_name;
+function Book(title,author,pages) {
+   
    this.title=title;
    this.author=author;
    this.pages=pages;
